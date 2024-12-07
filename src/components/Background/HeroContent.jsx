@@ -49,7 +49,7 @@ export const HeroContent = () => {
         </motion.p>
 
         <motion.a
-          href="/__ANDRES_CV.pdf" // Ruta a tu archivo PDF
+          href="/CV_ANDRES_SOSA.pdf" // Ruta a tu archivo PDF
           target="_blank" // Abre en nueva pestaña
           rel="noopener noreferrer" // Buena práctica de seguridad
           variants={slideInFromLeft(1)}
